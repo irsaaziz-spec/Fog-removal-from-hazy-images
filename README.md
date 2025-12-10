@@ -1,8 +1,9 @@
-# Fog-removal-from-hazy-images
-The project aims to develop an image enhancement framework that removes fog and haze from degraded images to improve object detection.
 Farheen Gul and Masooma Bakhtiari (Simulations & Algorithm)
 Amna Ehmer (Embedded Systems (Jetson Nano)) 
 Irsa Aziz (Research & Development (Documentation & Life Cycle))
+# Fog-removal-from-hazy-images
+The project aims to develop an image enhancement framework that removes fog and haze from degraded images to improve object detection.
+
 Overview and Motivation:
 Vision based perception in hazy and foggy environments remains a significant bottleneck for
 reliable deployment of object detection systems in real world scenarios. Traditional single image
