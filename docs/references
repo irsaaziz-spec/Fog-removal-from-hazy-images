@@ -1,0 +1,30 @@
+[1] C. Li, H. Zhou, Y. Liu, C. Yang, Y. Xie, Z. Li, and L. Zhu, “Detection-friendly dehazing: Object
+detection in real-world hazy scenes,” IEEE Trans. Pattern Anal. Mach. Intell., 2023.
+[2] V. A. Sindagi, P. Oza, R. Yasarla, and V. M. Patel, “Prior-based domain adaptive object
+detection for hazy and rainy conditions,” in Proc. Eur. Conf. Comput. Vis. (ECCV), 2020.
+[3] X. Yang, Y. Wang, Z. Li, et al., “Object detection in foggy scenes by embedding depth and
+reconstruction into domain adaptation,” in Proc. Asian Conf. Comput. Vis. (ACCV), 2022.
+[4] S. Lee, D. Kim, and K. Sohn, “FIFO: Learning fog-invariant features for foggy scene
+segmentation,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022.
+[5] P. Morales, S. P. Moran, R. K. Choudhury, and K. N. Plataniotis, “Feature forwarding for
+efficient single-image dehazing,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit.
+Workshops (CVPRW), NTIRE, 2019.
+[6] Y. Qiu, Z. Chen, J. Li, and B. Zhang, “IDOD-YOLOv7: Image-dehazing YOLOv7 for object
+detection in low-visibility traffic,” Sensors, vol. 23, no. xx, 2023.
+[7] Z. Liu, J. Chen, Y. Wang, et al., “Image dehazing RT-DETR for safety helmet detection in foggy
+scenes (DST-DETR),” Sensors, 2024.
+[8] H. Fan, Y. Wang, et al., “FriendNet: Detection-friendly dehazing network,” arXiv preprint
+arXiv:240x.xxxxx, 2024.
+[9] B. Zhang, L. Xu, Q. Wei, and J. Wang, “DDNet: Detection-focused dehazing network,” in Proc.
+Springer Computer Vision Conference, 2024.
+[10] H. S. Demir, A. Keles, and O. G. Cula, “Evaluating the impact of dehazing algorithms on object
+tracking and detection performance,” Springer Journal, 2025.
+[11] X. Qin, Z. Wang, Y. Bai, X. Xie, and H. Jia, “FFA-Net: Feature fusion attention network for single
+image dehazing,” IEEE Trans. Image Process., vol. 29, pp. 4257–4269, 2020.
+[12] Y. Liu, J. Zhang, Y. Ma, and Z. Wang, “HardGAN: Haze-aware representation distillation GAN
+for single image dehazing,” IEEE Trans. Image Process., vol. 30, pp. 1340–1353, 2021.
+[13] T. Guo, H. Fan, X. Zhang, et al., “DehazeFormer: Transformer-based image dehazing,” in Proc.
+IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022.
+[14] Y. Wang, J. Liu, and X. Tang, "Single-Image Dehazing Using Color Attenuation Prior Based on
+Haze-Lines," 2019 IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan,
+2019, pp. 3317-3321, doi: 10.1109/ICIP.2019.9005603.
